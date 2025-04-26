@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Muhammad Ahmed Rayyan](www.linkedin.com/in/muhammad-ahmed-rayyan-839b15294/)) 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFFFFF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=yellow)](huggingface.co/muhammadahmedrayyan)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFFFFF?style=for-the-logo=huggingface&logoColor=white&labelColor=yellow)](huggingface.co/muhammadahmedrayyan)
 
 
 # 💻 Tech Stack:
