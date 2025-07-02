@@ -2,7 +2,7 @@
 
 🎓 Artificial Intelligence student at SZABIST University<br/>
 ⚡ Currently in my 4th semester, building skills in AI development<br/>
-🚀 I have worked on custom GPTs, AI-integrated solutions, database projects, and management systems<br/>
+🚀 I have worked on custom GPTs, AI-integrated solutions, database projects, and management & IoT systems<br/>
 🔰 Enthusiast of AI, smart gadgets, and tech innovation<br/>
 
 # 💻 Tech Stack:
