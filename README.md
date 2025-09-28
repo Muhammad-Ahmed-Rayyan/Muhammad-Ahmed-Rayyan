@@ -36,7 +36,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![NLTK](https://img.shields.io/badge/NLTK-%23007ACC.svg?style=for-the-badge&logoColor=white) 
 ![Transformers](https://img.shields.io/badge/Transformers-%23D4AF37.svg?style=for-the-badge&logo=huggingface&logoColor=white) 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=FFD21E&color=FFD21E)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-fffff?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=FFD21E)
 ![nnU-Net](https://img.shields.io/badge/nnU--Net-blueviolet?style=for-the-badge&logo=openverse&logoColor=white)
 ![NIfTI](https://img.shields.io/badge/NIfTI%20MRI%20Images-8ac926?style=for-the-badge) 
 ![Joblib](https://img.shields.io/badge/Joblib-6A5ACD?style=for-the-badge&logo=files&logoColor=white) 
