@@ -3,11 +3,11 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/muhammadahmedrayyan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahmed-rayyan)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/MuhammadAhmedRayyan)
-[![X](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/muh_ahmedrayyan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedrayyanfamily@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/muhammadahmedrayyan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/muhammad-ahmed-rayyan)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=flat-square)](https://reddit.com/user/MuhammadAhmedRayyan)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/muh_ahmedrayyan)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:ahmedrayyanfamily@gmail.com)
 
 
 # 💻 Tech Stack:
