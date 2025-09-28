@@ -21,12 +21,10 @@
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -43,11 +41,9 @@
 ![NIfTI](https://img.shields.io/badge/NIfTI%20MRI%20Images-8ac926?style=for-the-badge) 
 ![Joblib](https://img.shields.io/badge/Joblib-6A5ACD?style=for-the-badge&logo=files&logoColor=white) 
 ![Mediapipe](https://img.shields.io/badge/MediaPipe-5C3EE8?style=for-the-badge&logo=google&logoColor=white) 
-
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MicrosoftSQLServer](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white) 
-
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-006400?style=for-the-badge&logo=anaconda&logoColor=white) 
@@ -55,10 +51,9 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-241F31?style=for-the-badge&logo=gnometerminal&logoColor=fff) 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) 
-
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-%230072C6.svg?style=for-the-badge&logo=cisco&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/Wireshark-%23167C80.svg?style=for-the-badge&logo=wireshark&logoColor=white) 
-![Twilio](https://img.shields.io/badge/Twilio-F22)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmed-Rayyan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
