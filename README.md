@@ -23,6 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
+![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
@@ -36,7 +37,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![NLTK](https://img.shields.io/badge/NLTK-%23007ACC.svg?style=for-the-badge&logoColor=white) 
 ![Transformers](https://img.shields.io/badge/Transformers-%23D4AF37.svg?style=for-the-badge&logo=huggingface&logoColor=white) 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-fffff?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=FFD21E)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-f7aa00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![nnU-Net](https://img.shields.io/badge/nnU--Net-blueviolet?style=for-the-badge&logo=openverse&logoColor=white)
 ![NIfTI](https://img.shields.io/badge/NIfTI%20MRI%20Images-8ac926?style=for-the-badge) 
 ![Joblib](https://img.shields.io/badge/Joblib-6A5ACD?style=for-the-badge&logo=files&logoColor=white) 
@@ -54,6 +55,14 @@
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-%230072C6.svg?style=for-the-badge&logo=cisco&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/Wireshark-%23167C80.svg?style=for-the-badge&logo=wireshark&logoColor=white) 
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+![NetLogo](https://img.shields.io/badge/NetLogo-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xNiAyTDI5IDMwSDEzbDQtMTBINC41eiIvPjwvc3ZnPg==&logoColor=white)
+![IFTTT](https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=white) 
+![Blynk](https://img.shields.io/badge/Blynk-2C3E50?style=for-the-badge&logo=blynk&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmed-Rayyan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
