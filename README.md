@@ -1,5 +1,5 @@
 ## Hi, Muhammad Ahmed Rayyan Here
-🎓 Artificial Intelligence student at SZABIST University  <br>⚡ Currently in my 5th semester, building skills in AI development and Machine Learning  <br>🚀 Worked on custom GPTs, AI agents, intelligent workflows, database projects, and smart IoT systems  <br>🔰 Enthusiast of AI, machine learning, automations, and tech innovation  
+🎓 Artificial Intelligence student at SZABIST University  <br>⚡ Currently in my 6th semester, building skills in AI development and Machine Learning  <br>🚀 Worked on custom GPTs, AI agents, intelligent workflows, database projects, and smart IoT systems  <br>🔰 Enthusiast of AI, machine learning, automations, and tech innovation  
  
 
 ## 🌐 Socials:
@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:ahmedrayyanfamily@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/muh_ahmedrayyan)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/muhammadahmedrayyan)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=flat-square)](https://reddit.com/user/MuhammadAhmedRayyan)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=flat-square)](https://www.reddit.com/user/MuhammadAhmed-Rayyan)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square)](https://www.kaggle.com/muhammadahmedrayyan)
 
 
@@ -68,12 +68,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmed-Rayyan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Ahmed-Rayyan&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmed-Rayyan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Muhammad-Ahmed-Rayyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🌟 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Muhammad-Ahmed-Rayyan&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Muhammad-Ahmed-Rayyan&icon=0&color=0)](https://visitcount.itsvg.in)
