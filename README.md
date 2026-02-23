@@ -80,7 +80,7 @@
 ![Blynk](https://img.shields.io/badge/Blynk-2C3E50?style=for-the-badge&logo=blynk&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
- 
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmed-Rayyan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Ahmed-Rayyan&theme=github_dark&hide_border=false)<br/>
