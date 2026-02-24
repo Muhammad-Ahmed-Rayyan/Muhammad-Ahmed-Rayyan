@@ -80,8 +80,8 @@
 ![Blynk](https://img.shields.io/badge/Blynk-2C3E50?style=for-the-badge&logo=blynk&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-   
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmed-Rayyan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Ahmed-Rayyan&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmed-Rayyan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Muhammad Ahmed Rayyan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Muhammad-Ahmed-Rayyan&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Muhammad Ahmed Rayyan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmed-Rayyan&langs_count=8&layout=compact&theme=github_dark&hide_border=false" height="192px"/></a>
