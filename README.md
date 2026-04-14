@@ -82,6 +82,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=Muhammad-Ahmed-Rayyan&theme=github_dark&hide_border=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Ahmed-Rayyan&theme=github_dark&hide_border=false)<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Muhammad Ahmed Rayyan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Muhammad-Ahmed-Rayyan&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" height="192px"/></a>
 
