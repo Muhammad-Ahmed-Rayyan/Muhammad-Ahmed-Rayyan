@@ -90,5 +90,9 @@
 
 
 <div align="center">
-  <img src="./assets/Fox.gif" width="200" alt="fox mascot" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/Fox_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/Fox_Light.gif">
+    <img src="./assets/Fox_Dark.gif" width="200" alt="fox mascot">
+  </picture>
 </div>
