@@ -10,7 +10,7 @@
  
 「 Hi, I'm Muhammad Ahmed Rayyan `console.log("rayyan")`, a professional overthinker of AI systems & a serial hackathon menace , shipping things out! 」
 
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-6C63FF?style=flat-square&logo=link&logoColor=white)](https://ahmedrayyan-portfolio.netlify.app/) •
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-6C63FF?style=flat-square&logo=link&logoColor=white)](http://muhammadahmedrayyan.me/) •
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/muhammad-ahmed-rayyan) •
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:ahmedrayyanfamily@gmail.com) •
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/muh_ahmedrayyan) •
