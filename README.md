@@ -15,7 +15,8 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:ahmedrayyanfamily@gmail.com) •
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/muh_ahmedrayyan) •
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/muhammadahmedrayyan) •
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square)](https://www.kaggle.com/muhammadahmedrayyan)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square)](https://www.kaggle.com/muhammadahmedrayyan) •
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=flat-square)](https://www.reddit.com/user/MuhammadAhmed-Rayyan)
   <br>
 </div>
 
